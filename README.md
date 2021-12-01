@@ -12,5 +12,5 @@
 
 - 📫 How to reach me: https://m.facebook.com/100065476416784/  
  
-- ![Beelzebuuuuu running](https://m.facebook.com/photo.php/?fbid=257954446397101)
+![Beelzebuuuuu running](https://m.facebook.com/photo.php/?fbid=257954446397101)
 
