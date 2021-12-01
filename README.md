@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Beelzebuuuuu/BeelZebuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Beelzebuuuuu/BeelZebuuuuu**✨✨
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on REDES 
 - 🌱 I’m currently learning quantum computing
