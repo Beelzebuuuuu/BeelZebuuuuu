@@ -4,13 +4,13 @@
 
 
 
-###- 🔭 I’m currently working on REDES 
+- 🔭 I’m currently working on REDES 
 
-###- 🌱 I’m currently learning quantum computing
+- 🌱 I’m currently learning quantum computing
 
-###- 🤔 I’m looking for help with a quantum algorithm for artificial intelligence
+- 🤔 I’m looking for help with a quantum algorithm for artificial intelligence
 
-###- 📫 How to reach me: https://m.facebook.com/100065476416784/  
+- 📫 How to reach me: https://m.facebook.com/100065476416784/  
  
-###- ![running](https://m.imgur.com/a/zFlGjhD)
--->
+- ![Beelzebuuuuu running](https://m.imgur.com/a/zFlGjhD)
+
