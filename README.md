@@ -9,7 +9,7 @@
 
 ![Beelzebuuuuu running](https://www.computerworld.es/archivos/201401/cisco-datacenter2.jpg)
 
-- 🌱 I’m currently learning quantum computing
+- 🌱 I am very interested in quantum computers, I really love physics but mixing it with my other passion which is computers makes me allusions and gives me a hunger for knowledge
  
 ![Beelzebuuuuu running](https://computerworldmexico.com.mx/wp-content/uploads/2020/02/computacion-cuantica.jpg)
 
