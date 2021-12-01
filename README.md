@@ -9,7 +9,7 @@
 
 ![Beelzebuuuuu running](https://www.computerworld.es/archivos/201401/cisco-datacenter2.jpg)
 
-- 🌱 soy técnico en Telecomunicaciones conectividad y Redes y muy autodidacta fanatico de los libros, mi primer ataque a wireless de protocolo WEP con linux fue por el 2015 cuando estaba en el colegio estudiando la media y con mi tio que era electrónico titulado fabricamos una antena direcional artesanal y luego de entrar a la red del vecino ahi me empezó a encantar el hackig mi tio me enseño varia cosas de Linux y me encanto este mundo y hacia travesuras en el colegio como tomar control de la sala de computación y pedir prestada información de sus celulares de mis compañeros travesuras de niño
+- 🌱 I am very interested in quantum computers, I really love physics but mixing it with my other passion which is computers makes me allusions and gives me a hunger for knowledge
 
  
 ![Beelzebuuuuu running](https://computerworldmexico.com.mx/wp-content/uploads/2020/02/computacion-cuantica.jpg)
