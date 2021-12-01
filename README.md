@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning quantum computing
 
-- 🤔 I’m looking for help with a quantum algorithm for artificial intelligence
-
 - 📫 How to reach me: https://m.facebook.com/100065476416784/  
  
-![Beelzebuuuuu running](https://m.facebook.com/photo.php/?fbid=257954446397101)
+![Beelzebuuuuu running](https://blog.ehcgroup.io/wp-content/uploads/2019/06/pelis.jpg)
 
