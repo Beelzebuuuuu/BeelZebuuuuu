@@ -29,13 +29,7 @@
     <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
 
   </a>
-</p>
-
-
-- 💫 
-
-
-<p><img align="center" src="https://github-Beelzebuuuuu-stats.vercel.app/api/top-langs?username=niteappantest&show_icons=true&layout=compact&theme=nightowl" alt="Beelzebuuuuu" /></p>
+</p
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebuuuui&show_icons=true&theme=nightowl" alt="Beelzebuuuuu" /></p>
 
