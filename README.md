@@ -25,7 +25,7 @@
 
 
   </a>
-  <a href="https://github.com/Beelzebuuuuu?tab=followers">
+  <a href="https://github.com/Beelzebuuuuu?tab=BeelZebuuuu">
     <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
 
   </a>
