@@ -18,3 +18,34 @@
  
 ![Beelzebuuuuu running](https://blog.ehcgroup.io/wp-content/uploads/2019/06/pelis.jpg)
 
+
+
+<h2 align="center">Hi I'm <br>Beelzebuuuuu</h1>
+<h4 align="center">This is my test Repository</h3>
+
+##
+<p align="center">
+  <a href="https://github.com/Beelzebuuuuu">
+    <img src="https://komarev.com/ghpvc/?username=BeelZebuuuuu&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/Beelzebuuuuu?tab=stars">
+    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
+
+  </a>
+  <a href="https://github.com/Beelzebuuuuu?tab=followers">
+    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
+
+
+- 💫 
+
+
+<p><img align="center" src="https://github-Beelzebuuuuu-stats.vercel.app/api/top-langs?username=niteappantest&show_icons=true&layout=compact&theme=nightowl" alt="niteappantest" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebuuuui&show_icons=true&theme=nightowl" alt="Beelzebuuuuu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzebuuuuu&theme=nightowl" alt="Beelzebuuuuu" /></p>
+</details>
