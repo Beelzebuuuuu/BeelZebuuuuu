@@ -23,6 +23,14 @@
 <h2 align="center">Hi I'm <br>Beelzebuuuuu</h1>
 <h4 align="center">I am BeelZebuuuuu and I advise you not to fall into cybercrime do your tests in controlled environments or with the written permission of your client</h3>
 
+##
+<p align="center">
+  <a href="https://github.com/Beelzebuuuuu">
+    <img src="https://komarev.com/ghpvc/?username=BeelZebuuuuu&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/Beelzebuuuuu?tab=stars">
+    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
   <a href="https://github.com/Beelzebuuuuu?tab=BeelZebuuuu">
