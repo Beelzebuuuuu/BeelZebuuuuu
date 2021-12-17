@@ -25,10 +25,6 @@
 
 
   </a>
-  <a href="https://github.com/Beelzebuuuuu?tab=stars">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
   <a href="https://github.com/Beelzebuuuuu?tab=followers">
     <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
 
