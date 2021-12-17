@@ -23,10 +23,6 @@
 <h2 align="center">Hi I'm <br>Beelzebuuuuu</h1>
 <h4 align="center">This is my test Repository</h3>
 
-##
-<p align="center">
-  <a href="https://github.com/Beelzebuuuuu">
-    <img src="https://komarev.com/ghpvc/?username=BeelZebuuuuu&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
   <a href="https://github.com/Beelzebuuuuu?tab=stars">
