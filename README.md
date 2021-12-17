@@ -29,9 +29,6 @@
     <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
 
   </a>
-</p
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebuuuui&show_icons=true&theme=nightowl" alt="Beelzebuuuuu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzebuuuuu&theme=nightowl" alt="Beelzebuuuuu" /></p>
 </details>
